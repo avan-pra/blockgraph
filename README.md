@@ -32,7 +32,7 @@ Then go to http://localhost:7474/browser/ and query with `match (n) return n` fo
 Example output:  
 
 Above output
-![example image](images/image_example.png)
+![example image](images/img_example.png)
 
 heroctf web3 osint graph (dev mode) (put [this file](https://dev.avan.sh/posts/graph-blockren/heroctftransactions) in the root of the repo)
 ![heroctf web3 osint graph](images/image_hero_ctf.png)
